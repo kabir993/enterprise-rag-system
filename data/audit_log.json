@@ -1,0 +1,12 @@
+[
+  {"timestamp": "2026-05-01 09:00", "user": "john", "action": "LOGIN", "resource": "system"},
+  {"timestamp": "2026-05-01 09:05", "user": "john", "action": "VIEW", "resource": "employees.csv"},
+  {"timestamp": "2026-05-01 09:10", "user": "sara", "action": "UPDATE", "resource": "policy.txt"},
+  {"timestamp": "2026-05-01 09:15", "user": "mike", "action": "ACCESS", "resource": "audit_log.json"},
+  {"timestamp": "2026-05-01 09:20", "user": "priya", "action": "EXPORT", "resource": "employees.csv"},
+  {"timestamp": "2026-05-01 09:25", "user": "admin", "action": "DELETE", "resource": "old_report.txt"},
+  {"timestamp": "2026-05-01 09:30", "user": "lisa", "action": "VIEW", "resource": "policy.txt"},
+  {"timestamp": "2026-05-01 09:35", "user": "tom", "action": "LOGIN", "resource": "system"},
+  {"timestamp": "2026-05-01 09:40", "user": "amy", "action": "VIEW", "resource": "employees.csv"},
+  {"timestamp": "2026-05-01 09:45", "user": "raj", "action": "UPDATE", "resource": "employees.csv"}
+]

@@ -1,0 +1,20 @@
+{
+  "roles": {
+    "hr": ["employees.csv", "policy.txt"],
+    "finance": ["employees.csv", "policy.txt"],
+    "engineer": ["audit_log.json", "policy.txt"],
+    "admin": ["*"]
+  },
+  "users": {
+    "john": "finance",
+    "sara": "hr",
+    "mike": "engineer",
+    "priya": "finance",
+    "admin": "admin",
+    "lisa": "hr",
+    "tom": "engineer",
+    "amy": "finance",
+    "raj": "hr",
+    "steve": "engineer"
+  }
+}

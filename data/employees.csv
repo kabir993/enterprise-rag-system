@@ -1,0 +1,11 @@
+id,name,department,role,salary
+1,John Smith,Finance,finance,75000
+2,Sara Khan,HR,hr,65000
+3,Mike Johnson,Engineering,engineer,90000
+4,Priya Patel,Finance,finance,80000
+5,Admin User,IT,admin,95000
+6,Lisa Ray,HR,hr,62000
+7,Tom Brown,Engineering,engineer,88000
+8,Amy Chen,Finance,finance,77000
+9,Raj Mehta,HR,hr,64000
+10,Steve Rogers,Engineering,engineer,92000python rag_system.py

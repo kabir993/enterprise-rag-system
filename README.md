@@ -1,5 +1,3 @@
-# enterprise-rag-system
-
 # Enterprise RAG Intelligence System
 
 ## Overview

@@ -1,0 +1,28 @@
+ENTERPRISE DATA ACCESS POLICY
+==============================
+
+1. GENERAL POLICY
+All employees must comply with data access rules defined by their role.
+Unauthorized access to restricted data is strictly prohibited.
+
+2. HR DEPARTMENT
+HR staff can access employee records including names, departments, and roles.
+HR cannot access salary data or engineering audit logs.
+
+3. FINANCE DEPARTMENT
+Finance staff can access employee salary data and financial records.
+Finance cannot access HR personal notes or engineering logs.
+
+4. ENGINEERING DEPARTMENT
+Engineers can access system audit logs and technical reports.
+Engineers cannot access salary or personal employee data.
+
+5. ADMIN
+Admin users have full access to all data sources and systems.
+All admin actions are logged and reviewed weekly.
+
+6. COMPLIANCE
+All data access is logged automatically.
+Violations are reported to the security team immediately.
+Data retention period is 7 years for financial records.
+New-Item data\access_control.json
